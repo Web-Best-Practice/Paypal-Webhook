@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "WebBestPractice\\PaypalWebhook\\Provides\\PaypalProvider"
+                "WebBestPractice\\PaypalWebhook\\Providers\\PaypalProvider"
             ]
         }
     }
