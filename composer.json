@@ -1,0 +1,19 @@
+{
+    "name": "wbp/paypal",
+    "description": "PayPal Webhooks",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wbp\\Paypal\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Web Best Practice"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
