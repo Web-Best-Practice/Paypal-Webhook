@@ -1,9 +1,9 @@
 <?php
 
-namespace Wbp\Paypal;
+namespace WebBestPractice\PaypalWebhook;
 
 use Illuminate\Http\Request;
-use Wbp\Paypal\Exceptions\PaypalException;
+use WebBestPractice\PaypalWebhook\Exceptions\PaypalException;
 
 class Webhook
 {

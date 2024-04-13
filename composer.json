@@ -1,11 +1,11 @@
 {
-    "name": "wbp/paypal",
+    "name": "web-best-practice/paypal-webhook",
     "description": "PayPal Webhooks",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Wbp\\Paypal\\": "src/"
+            "WebBestPractice\\PaypalWebhook\\": "src/"
         }
     },
     "authors": [

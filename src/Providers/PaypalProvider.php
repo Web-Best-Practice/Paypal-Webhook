@@ -1,6 +1,6 @@
 <?php
 
-namespace Wbp\Paypal\Providers;
+namespace WebBestPractice\PaypalWebhook\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

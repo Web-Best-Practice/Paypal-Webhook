@@ -1,5 +1,5 @@
 <?php
-namespace Wbp\Paypal\Exceptions;
+namespace WebBestPractice\PaypalWebhook\Exceptions;
 
 use Exception;
 
